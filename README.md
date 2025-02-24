@@ -5,7 +5,6 @@ This is a **custom subdomain enumeration tool** designed for **ethical hackers a
 ## 🚀 Features
 - Fast and efficient subdomain discovery
 - Uses multiple enumeration techniques
-- Colorful and interactive terminal output
 - Works on **Termux & Kali Linux**
 - No root required
 
@@ -17,9 +16,17 @@ Clone the repository and install dependencies:
 git clone https://github.com/WizSafe/Sub-ENUM.git
 cd Sub-ENUM
 pip install -r requirements.txt
+```
 
-### 🔥 Usage
-7
+## 🔥 **Usage**
+
 Run the tool with the following command:
+```bash
+python SubEnum.py
+```
 
-python SubEnum.py 
+## ⚠️ **Disclaimer**
+
+This tool is developed for educational and ethical purposes only. It is intended to help cybersecurity professionals, ethical hackers, and bug bounty hunters in security research and penetration testing.
+
+Unauthorized use of this tool on websites or systems without proper permission is illegal and may lead to legal consequences. The developer and contributors are not responsible for any misuse of this tool. Always ensure you have explicit permission before testing any target.
